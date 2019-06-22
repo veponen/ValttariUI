@@ -1,8 +1,6 @@
 # PWP SPRING 2019
-# PROJECT NAME
+# Walttari UI
 # Group information
-* Student 1. Name and email
-* Student 2. Name and email
-* Student 3. Name and email
+* Student 1. Vesa **Pekka** Reijonen ve.pe.re@hotmail.com
 
 
